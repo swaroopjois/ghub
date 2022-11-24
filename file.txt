@@ -1,7 +1,6 @@
 conflict check in git
 =======
-check for conflictsa
-
+check for conflicts
 
 kept both
 
